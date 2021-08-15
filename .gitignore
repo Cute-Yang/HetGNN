@@ -1,0 +1,7 @@
+data/graph_data/*.txt
+
+data/node_data/*.txt
+foo
+logs
+test/*.json
+kf_source_data
