@@ -1,8 +1,12 @@
 data/graph_data/*.txt
-
+data/embed_data/*.txt
 data/node_data/*.txt
 foo
 logs
 test/*.json
 kf_source_data
 data/het_random_walk/*.txt
+
+data
+filter_file
+assits
